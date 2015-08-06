@@ -3,7 +3,7 @@ package org.tbi.engine
 /**
  * @author wangfei
  */
-class Test {
+object Test1 {
   def main(args: Array[String]){
     println("Hello")
   }
