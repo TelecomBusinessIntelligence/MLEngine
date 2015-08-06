@@ -10,7 +10,7 @@
 		<encoding>UTF-8</encoding>
 		<scala.tools.version>2.10</scala.tools.version>
 		<!-- Put the Scala version of the cluster -->
-		<scala.version>2.10.4</scala.version>
+		<scala.version>2.11.7</scala.version>
 	</properties>
 	
 	<!-- repository to add org.apache.spark -->
@@ -100,6 +100,11 @@
 			<artifactId>spark-core_2.10</artifactId>
 			<version>1.2.0-cdh5.3.1</version>
 		</dependency>
-
+		<dependency>
+		<!-- Mongo DB scala driver -->
+			<groupId>com.osinka</groupId>
+			<artifactId>mongo-scala-driver</artifactId>
+			<version>0.8.9</version>
+		</dependency>
 	</dependencies>
 </project>
