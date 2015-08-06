@@ -10,7 +10,7 @@
 		<encoding>UTF-8</encoding>
 		<scala.tools.version>2.10</scala.tools.version>
 		<!-- Put the Scala version of the cluster -->
-		<scala.version>2.10.4</scala.version>
+		<scala.version>2.11.7</scala.version>
 	</properties>
 	
 	<!-- repository to add org.apache.spark -->
