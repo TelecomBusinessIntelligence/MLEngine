@@ -1,5 +1,10 @@
 /bin/
 /target/
+<<<<<<< HEAD
 .classpath
 /project
 .cache-main
+=======
+/project/
+.classpath
+>>>>>>> 61fb410a0758c3e4d4aa7da09df8a6709e2a9033
